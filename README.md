@@ -1,1 +1,5 @@
-# Week-4-Game
+# crystal count
+
+Demo:
+
+https://oylo.info/playgrounds/crystals/index
